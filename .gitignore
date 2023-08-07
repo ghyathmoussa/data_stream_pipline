@@ -1,0 +1,6 @@
+node_modules
+logs
+config
+airflow-webserver.pid
+airflow-worker.pid
+.env
