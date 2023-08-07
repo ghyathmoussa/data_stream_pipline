@@ -14,3 +14,7 @@ This application create an automation system for weather prediction using airflo
 * setup you Google Cloud system
 * download the configuration json file that helps you to connect to BigQuery
 
+## Run
+
+* The application will run when the schedule of airflow is begun
+* Happy Hacking :)  
